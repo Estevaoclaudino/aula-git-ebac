@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Estevao
+-Profissão: Atendente
+-Cidade: Carpina
+-O que faz nas horas vaga: Gosto de treinar e me atualizar sobre o mundo do ti
+-Feedback sobre o curso Qualidade de Software: ate o modulo 10 que é o mudulo em qu eu me encontro esta tudo bem
+-Feedback sobre a plataforma de estudo da EBAC: Gostaria de mais exercicios praticos para ajudar na fixacao dos conteudos
 
 Obrigado!!!
 
